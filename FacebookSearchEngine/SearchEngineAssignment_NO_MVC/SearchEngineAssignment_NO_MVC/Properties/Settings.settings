@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SearchEngineAssignment_NO_MVC.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="FacebookClientId" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">238835239578256</Value>
+    </Setting>
+    <Setting Name="FacebookClientSecret" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">37c5746af5d122601a3a1b5c3eb63ba5</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
